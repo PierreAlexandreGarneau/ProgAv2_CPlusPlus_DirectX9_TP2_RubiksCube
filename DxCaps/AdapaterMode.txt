@@ -1,0 +1,270 @@
+Width: 640
+Height: 480
+Format: 22
+RefreshRate: 60
+
+Width: 640
+Height: 480
+Format: 22
+RefreshRate: 75
+
+Width: 720
+Height: 480
+Format: 22
+RefreshRate: 60
+
+Width: 720
+Height: 480
+Format: 22
+RefreshRate: 75
+
+Width: 720
+Height: 576
+Format: 22
+RefreshRate: 60
+
+Width: 720
+Height: 576
+Format: 22
+RefreshRate: 75
+
+Width: 800
+Height: 600
+Format: 22
+RefreshRate: 60
+
+Width: 800
+Height: 600
+Format: 22
+RefreshRate: 75
+
+Width: 1024
+Height: 768
+Format: 22
+RefreshRate: 60
+
+Width: 1024
+Height: 768
+Format: 22
+RefreshRate: 75
+
+Width: 1152
+Height: 864
+Format: 22
+RefreshRate: 75
+
+Width: 1280
+Height: 720
+Format: 22
+RefreshRate: 60
+
+Width: 1280
+Height: 720
+Format: 22
+RefreshRate: 75
+
+Width: 1280
+Height: 768
+Format: 22
+RefreshRate: 60
+
+Width: 1280
+Height: 768
+Format: 22
+RefreshRate: 75
+
+Width: 1280
+Height: 800
+Format: 22
+RefreshRate: 60
+
+Width: 1280
+Height: 800
+Format: 22
+RefreshRate: 75
+
+Width: 1280
+Height: 960
+Format: 22
+RefreshRate: 60
+
+Width: 1280
+Height: 960
+Format: 22
+RefreshRate: 75
+
+Width: 1280
+Height: 1024
+Format: 22
+RefreshRate: 60
+
+Width: 1280
+Height: 1024
+Format: 22
+RefreshRate: 75
+
+Width: 1360
+Height: 768
+Format: 22
+RefreshRate: 60
+
+Width: 1366
+Height: 768
+Format: 22
+RefreshRate: 60
+
+Width: 1600
+Height: 900
+Format: 22
+RefreshRate: 60
+
+Width: 1600
+Height: 1024
+Format: 22
+RefreshRate: 60
+
+Width: 1680
+Height: 1050
+Format: 22
+RefreshRate: 60
+
+Width: 1920
+Height: 1080
+Format: 22
+RefreshRate: 60
+
+Width: 1920
+Height: 1080
+Format: 22
+RefreshRate: 60
+
+Width: 640
+Height: 480
+Format: 22
+RefreshRate: 60
+
+Width: 640
+Height: 480
+Format: 22
+RefreshRate: 75
+
+Width: 720
+Height: 480
+Format: 22
+RefreshRate: 60
+
+Width: 720
+Height: 480
+Format: 22
+RefreshRate: 75
+
+Width: 720
+Height: 576
+Format: 22
+RefreshRate: 60
+
+Width: 720
+Height: 576
+Format: 22
+RefreshRate: 75
+
+Width: 800
+Height: 600
+Format: 22
+RefreshRate: 60
+
+Width: 800
+Height: 600
+Format: 22
+RefreshRate: 75
+
+Width: 1024
+Height: 768
+Format: 22
+RefreshRate: 60
+
+Width: 1024
+Height: 768
+Format: 22
+RefreshRate: 75
+
+Width: 1152
+Height: 864
+Format: 22
+RefreshRate: 75
+
+Width: 1280
+Height: 720
+Format: 22
+RefreshRate: 60
+
+Width: 1280
+Height: 720
+Format: 22
+RefreshRate: 75
+
+Width: 1280
+Height: 768
+Format: 22
+RefreshRate: 60
+
+Width: 1280
+Height: 768
+Format: 22
+RefreshRate: 75
+
+Width: 1280
+Height: 800
+Format: 22
+RefreshRate: 60
+
+Width: 1280
+Height: 800
+Format: 22
+RefreshRate: 75
+
+Width: 1280
+Height: 960
+Format: 22
+RefreshRate: 60
+
+Width: 1280
+Height: 960
+Format: 22
+RefreshRate: 75
+
+Width: 1280
+Height: 1024
+Format: 22
+RefreshRate: 60
+
+Width: 1280
+Height: 1024
+Format: 22
+RefreshRate: 75
+
+Width: 1360
+Height: 768
+Format: 22
+RefreshRate: 60
+
+Width: 1366
+Height: 768
+Format: 22
+RefreshRate: 60
+
+Width: 1600
+Height: 900
+Format: 22
+RefreshRate: 60
+
+Width: 1600
+Height: 1024
+Format: 22
+RefreshRate: 60
+
+Width: 1680
+Height: 1050
+Format: 22
+RefreshRate: 60
+
