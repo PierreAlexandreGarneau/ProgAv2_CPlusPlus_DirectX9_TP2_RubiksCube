@@ -1,8 +1,0 @@
-﻿  stdafx.cpp
-  SpriteApp.cpp
-c:\users\soproud\desktop\progii_a17\spriteapp\spriteapp.cpp(21): warning C4244: 'argument' : conversion de 'UINT' en 'FLOAT', perte possible de données
-c:\users\soproud\desktop\progii_a17\spriteapp\spriteapp.cpp(24): warning C4244: 'argument' : conversion de 'UINT' en 'FLOAT', perte possible de données
-  Main.cpp
-  Génération de code en cours...
-  SpriteApp.vcxproj -> C:\Users\Soproud\Desktop\ProgII_A17\x64\Debug\SpriteApp.exe
-  SpriteApp.vcxproj -> C:\Users\Soproud\Desktop\ProgII_A17\x64\Debug\SpriteApp.pdb (Partial PDB)

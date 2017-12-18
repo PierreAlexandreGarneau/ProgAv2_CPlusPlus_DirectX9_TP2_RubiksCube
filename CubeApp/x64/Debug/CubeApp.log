@@ -1,6 +1,0 @@
-﻿  RubikCubeApp.cpp
-  Cube.cpp
-c:\users\soproud\desktop\progii_a17\cubeapp\cube.cpp(125): warning C4018: '<' : incompatibilité signed/unsigned
-  Génération de code en cours...
-  CubeApp.vcxproj -> C:\Users\Soproud\Desktop\ProgII_A17\x64\Debug\CubeApp.exe
-  CubeApp.vcxproj -> C:\Users\Soproud\Desktop\ProgII_A17\x64\Debug\CubeApp.pdb (Partial PDB)
