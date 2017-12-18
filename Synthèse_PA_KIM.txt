@@ -1,0 +1,5 @@
+Le livre de luna à été survoler de A à Z mais même avec plusieurs tentavive de notre part, le cube n'a pas été multiplié.
+Il y a eu beaucoup d'incompréhension et peu information sur le web pour construire plusieurs models du cube coloré mais les inclusions entre les d3dApp et le cubeapp etc nous rendais plus perdu que jamais même si défoit on avait l'impression d'avancer.
+Il y a eu quand meme beaucoup de temps passé sur ce tp même si le resultat semble etre peu apparent.
+
+PA et Kim
