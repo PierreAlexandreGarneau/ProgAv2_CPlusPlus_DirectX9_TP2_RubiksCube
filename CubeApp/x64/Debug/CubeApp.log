@@ -1,0 +1,14 @@
+﻿FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see D:\GITHUB\CollegeBart_ProgII_A17_TP3_RubiksCube_PAG_KIM\x64\Debug\Transform.cso
+  stdafx.cpp
+  Main.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  CubeApp.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  Camera.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  Component.cpp
+  Génération de code en cours...
+  CubeApp.vcxproj -> D:\GITHUB\CollegeBart_ProgII_A17_TP3_RubiksCube_PAG_KIM\x64\Debug\CubeApp.exe
+  CubeApp.vcxproj -> D:\GITHUB\CollegeBart_ProgII_A17_TP3_RubiksCube_PAG_KIM\x64\Debug\CubeApp.pdb (Partial PDB)

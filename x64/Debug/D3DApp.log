@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  Vertex.cpp
+  Timer.cpp
+  Input.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  D3DApp.cpp
+  Génération de code en cours...
+  D3DApp.vcxproj -> D:\GITHUB\CollegeBart_ProgII_A17_TP3_RubiksCube_PAG_KIM\x64\Debug\D3DApp.lib
